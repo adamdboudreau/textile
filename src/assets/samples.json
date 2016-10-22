@@ -1,0 +1,5 @@
+[
+  {"title": "test1", "imageUrl": "/angular/samples/circles.png"},
+  {"title": "test2", "imageUrl": "/angular/samples/hex.jpg"},
+  {"title": "test3", "imageUrl": "/angular/samples/triangle.png"}
+]
