@@ -11,7 +11,7 @@ export class TextileListService {
 
   constructor(private http:Http) {
     //this.http = http
-    this.textiles = http.get("/src/assets/samples.json")
+    this.textiles = http.get("../../assets/samples.json")
       .catch(this.onError);
   }
   onError(res: any) {
