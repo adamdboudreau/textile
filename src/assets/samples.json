@@ -1,5 +1,5 @@
 [
-  {"title": "test1", "imageUrl": "/angular/samples/circles.png"},
-  {"title": "test2", "imageUrl": "/angular/samples/hex.jpg"},
-  {"title": "test3", "imageUrl": "/angular/samples/triangle.png"}
+  {"title": "test1", "imageUrl": "/assets/circle.svg"},
+  {"title": "test2", "imageUrl": "/assets/triangle-pattern.jpg"},
+  {"title": "test3", "imageUrl": "/assets/hexagon-pattern.png"}
 ]

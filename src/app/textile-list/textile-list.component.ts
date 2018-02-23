@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { TextileListService } from './textile-list.service';
+import { TextileListService } from '../textile-list.service';
 
 @Component({
   selector: 'app-textile-list',
@@ -22,12 +22,6 @@ export class TextileListComponent implements OnInit {
 
   ngOnInit() {
     console.log('on init...')
-    //this.textiles = [
-    //  {"title": "test1", "imageUrl": "/angular/samples/circles.png"},
-    //  {"title": "test2", "imageUrl": "/angular/samples/hex.jpg"},
-    //  {"title": "test3", "imageUrl": "/angular/samples/triangle.png"}
-    //]
-    //console.log(this.textiles)
   }
 
 }

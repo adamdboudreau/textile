@@ -1,10 +1,11 @@
-import { AngularQuickstartPage } from './app.po';
+import { TextilesPage } from './app.po';
 
-describe('angular-quickstart App', function() {
-  let page: AngularQuickstartPage;
+describe('textiles App', function() {
+  let page: TextilesPage;
 
   beforeEach(() => {
-    page = new AngularQuickstartPage();
+    page = new TextilesPage();
+
   });
 
   it('should display message saying app works', () => {

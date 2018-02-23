@@ -17,6 +17,6 @@ import { TextileListComponent } from './textile-list/textile-list.component';
     HttpModule
   ],
   providers: [],
-  bootstrap: [AppComponent, TextileListComponent]
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
